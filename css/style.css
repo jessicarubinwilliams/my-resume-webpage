@@ -12,4 +12,18 @@
 }
 
 .dates {
+  font-style: oblique; 
+}
+
+p {
+  margin: 0;
+  padding: 0;
+}
+
+ul {
+  margin: 0;
+}
+
+.main-skills {
+  font-style: italic;
 }
